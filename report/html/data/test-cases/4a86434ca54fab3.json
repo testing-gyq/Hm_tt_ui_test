@@ -1,0 +1,98 @@
+{
+  "uid" : "4a86434ca54fab3",
+  "name" : "test_mix_login[testid-testpwd123-首页]",
+  "fullName" : "case.mis.test_mis_login.TestMisLogin#test_mix_login",
+  "historyId" : "caad37027081c29c7e5f82f2e1a5277e",
+  "time" : {
+    "start" : 1598432351181,
+    "stop" : 1598432352269,
+    "duration" : 1088
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1598432342767,
+      "stop" : 1598432351180,
+      "duration" : 8413
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1598432352313,
+      "stop" : 1598432352314,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=102)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mis"
+  }, {
+    "name" : "suite",
+    "value" : "test_mis_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMisLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-ODOH5OU"
+  }, {
+    "name" : "thread",
+    "value" : "4384-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mis.test_mis_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "mis_password",
+    "value" : "'testpwd123'"
+  }, {
+    "name" : "mis_username",
+    "value" : "'testid'"
+  }, {
+    "name" : "text",
+    "value" : "'首页'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=102)" ]
+  },
+  "source" : "4a86434ca54fab3.json",
+  "parameterValues" : [ "'testpwd123'", "'testid'", "'首页'" ]
+}

@@ -1,0 +1,129 @@
+{
+  "uid" : "a02bda50e5ea0f3c",
+  "name" : "test_publish_article[大大大大新闻_{}-腾讯是一只大肥鹅，字节投诉特朗普政府-数据库-新增文章成功]",
+  "fullName" : "case.mp.test_publish_article.TestPublishArticle#test_publish_article",
+  "historyId" : "2963125f9d531160d93603d1cdafa634",
+  "time" : {
+    "start" : 1598515177834,
+    "stop" : 1598515184788,
+    "duration" : 6954
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1598515156205,
+      "stop" : 1598515177831,
+      "duration" : 21626
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1598515126921,
+      "stop" : 1598515126921,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1598515184823,
+      "stop" : 1598515184823,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1598515184828,
+      "stop" : 1598515184828,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=3)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mp"
+  }, {
+    "name" : "suite",
+    "value" : "test_publish_article"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPublishArticle"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-ODOH5OU"
+  }, {
+    "name" : "thread",
+    "value" : "3324-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mp.test_publish_article"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "channel_name",
+    "value" : "'数据库'"
+  }, {
+    "name" : "content",
+    "value" : "'腾讯是一只大肥鹅，字节投诉特朗普政府'"
+  }, {
+    "name" : "text",
+    "value" : "'新增文章成功'"
+  }, {
+    "name" : "title",
+    "value" : "'大大大大新闻_{}'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "run(order=3)" ]
+  },
+  "source" : "a02bda50e5ea0f3c.json",
+  "parameterValues" : [ "'数据库'", "'腾讯是一只大肥鹅，字节投诉特朗普政府'", "'新增文章成功'", "'大大大大新闻_{}'" ]
+}

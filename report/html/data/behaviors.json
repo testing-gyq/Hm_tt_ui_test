@@ -1,0 +1,135 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_begin",
+    "uid" : "9e33e1181443c58d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598432342754,
+      "stop" : 1598432342755,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_mix_login[testid-testpwd123-首页]",
+    "uid" : "4a86434ca54fab3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598432351181,
+      "stop" : 1598432352269,
+      "duration" : 1088
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'testpwd123'", "'testid'", "'首页'" ]
+  }, {
+    "name" : "test_check",
+    "uid" : "4e0dcc9cbc2b5d53",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598432355339,
+      "stop" : 1598432378152,
+      "duration" : 22813
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_reject",
+    "uid" : "b4de434fced042aa",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598432381272,
+      "stop" : 1598432386488,
+      "duration" : 5216
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_end",
+    "uid" : "de477017e2401480",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598432386513,
+      "stop" : 1598432392851,
+      "duration" : 6338
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_begin",
+    "uid" : "57150dc313c28003",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598517407005,
+      "stop" : 1598517407005,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_login[13012345678-246810-黑马头条官方账号]",
+    "uid" : "a063f3baa1041080",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598517415168,
+      "stop" : 1598517417290,
+      "duration" : 2122
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'246810'", "'黑马头条官方账号'", "'13012345678'" ]
+  }, {
+    "name" : "test_publish_article[今日头条大大新闻_{}-腾讯是一只大肥鹅，字节投诉特朗普政府-数据库-新增文章成功]",
+    "uid" : "d8b030d3ba1a015d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598517418161,
+      "stop" : 1598517426605,
+      "duration" : 8444
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'数据库'", "'腾讯是一只大肥鹅，字节投诉特朗普政府'", "'新增文章成功'", "'今日头条大大新闻_{}'" ]
+  }, {
+    "name" : "test_publish_article[大大大大新闻_{}-腾讯是一只大肥鹅，字节投诉特朗普政府-数据库-新增文章成功]",
+    "uid" : "70755f6115b80ebc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598517427167,
+      "stop" : 1598517434973,
+      "duration" : 7806
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'数据库'", "'腾讯是一只大肥鹅，字节投诉特朗普政府'", "'新增文章成功'", "'大大大大新闻_{}'" ]
+  }, {
+    "name" : "test_end",
+    "uid" : "7f9a8f39002f68c4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598517435050,
+      "stop" : 1598517441301,
+      "duration" : 6251
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

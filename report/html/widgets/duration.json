@@ -1,0 +1,101 @@
+[ {
+  "uid" : "a063f3baa1041080",
+  "name" : "test_login[13012345678-246810-黑马头条官方账号]",
+  "time" : {
+    "start" : 1598517415168,
+    "stop" : 1598517417290,
+    "duration" : 2122
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70755f6115b80ebc",
+  "name" : "test_publish_article[大大大大新闻_{}-腾讯是一只大肥鹅，字节投诉特朗普政府-数据库-新增文章成功]",
+  "time" : {
+    "start" : 1598517427167,
+    "stop" : 1598517434973,
+    "duration" : 7806
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de477017e2401480",
+  "name" : "test_end",
+  "time" : {
+    "start" : 1598432386513,
+    "stop" : 1598432392851,
+    "duration" : 6338
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4de434fced042aa",
+  "name" : "test_reject",
+  "time" : {
+    "start" : 1598432381272,
+    "stop" : 1598432386488,
+    "duration" : 5216
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8b030d3ba1a015d",
+  "name" : "test_publish_article[今日头条大大新闻_{}-腾讯是一只大肥鹅，字节投诉特朗普政府-数据库-新增文章成功]",
+  "time" : {
+    "start" : 1598517418161,
+    "stop" : 1598517426605,
+    "duration" : 8444
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57150dc313c28003",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598517407005,
+    "stop" : 1598517407005,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a86434ca54fab3",
+  "name" : "test_mix_login[testid-testpwd123-首页]",
+  "time" : {
+    "start" : 1598432351181,
+    "stop" : 1598432352269,
+    "duration" : 1088
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f9a8f39002f68c4",
+  "name" : "test_end",
+  "time" : {
+    "start" : 1598517435050,
+    "stop" : 1598517441301,
+    "duration" : 6251
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e33e1181443c58d",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598432342754,
+    "stop" : 1598432342755,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e0dcc9cbc2b5d53",
+  "name" : "test_check",
+  "time" : {
+    "start" : 1598432355339,
+    "stop" : 1598432378152,
+    "duration" : 22813
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

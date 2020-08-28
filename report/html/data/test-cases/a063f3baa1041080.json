@@ -1,0 +1,175 @@
+{
+  "uid" : "a063f3baa1041080",
+  "name" : "test_login[13012345678-246810-黑马头条官方账号]",
+  "fullName" : "case.mp.test_login.TestMp#test_login",
+  "historyId" : "ea286a502a77bc4b43a2136c361e67b6",
+  "time" : {
+    "start" : 1598517415168,
+    "stop" : 1598517417290,
+    "duration" : 2122
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1598517407012,
+      "stop" : 1598517415166,
+      "duration" : 8154
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "输入用户名",
+      "time" : {
+        "start" : 1598517415168,
+        "stop" : 1598517415721,
+        "duration" : 553
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "username",
+        "value" : "'13012345678'"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "输入验证码",
+      "time" : {
+        "start" : 1598517415723,
+        "stop" : 1598517415927,
+        "duration" : 204
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "code",
+        "value" : "'246810'"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "点击登录",
+      "time" : {
+        "start" : 1598517415928,
+        "stop" : 1598517416030,
+        "duration" : 102
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1598517417299,
+      "stop" : 1598517417299,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mp"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMp"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-ODOH5OU"
+  }, {
+    "name" : "thread",
+    "value" : "25212-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mp.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "code",
+    "value" : "'246810'"
+  }, {
+    "name" : "text",
+    "value" : "'黑马头条官方账号'"
+  }, {
+    "name" : "username",
+    "value" : "'13012345678'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f83118dbb252ffe1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598515121732,
+        "stop" : 1598515126881,
+        "duration" : 5149
+      }
+    }, {
+      "uid" : "392031b74d2909ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598432319773,
+        "stop" : 1598432321182,
+        "duration" : 1409
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "run(order=2)" ]
+  },
+  "source" : "a063f3baa1041080.json",
+  "parameterValues" : [ "'246810'", "'黑马头条官方账号'", "'13012345678'" ]
+}

@@ -1,0 +1,281 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-ODOH5OU",
+    "children" : [ {
+      "name" : "3324-MainThread",
+      "children" : [ {
+        "name" : "test_end",
+        "uid" : "83c74e65a35b78ad",
+        "parentUid" : "6a37520317c1017a5be8bb17c59ade4a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598515184839,
+          "stop" : 1598515191127,
+          "duration" : 6288
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_publish_article[今日头条大大新闻_{}-腾讯是一只大肥鹅，字节投诉特朗普政府-数据库-新增文章成功]",
+        "uid" : "a9312d8eaffafb81",
+        "parentUid" : "6a37520317c1017a5be8bb17c59ade4a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598515148855,
+          "stop" : 1598515156159,
+          "duration" : 7304
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'数据库'", "'腾讯是一只大肥鹅，字节投诉特朗普政府'", "'新增文章成功'", "'今日头条大大新闻_{}'" ]
+      }, {
+        "name" : "test_login[13012345678-246810-黑马头条官方账号]",
+        "uid" : "f83118dbb252ffe1",
+        "parentUid" : "6a37520317c1017a5be8bb17c59ade4a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598515121732,
+          "stop" : 1598515126881,
+          "duration" : 5149
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'246810'", "'黑马头条官方账号'", "'13012345678'" ]
+      }, {
+        "name" : "test_publish_article[大大大大新闻_{}-腾讯是一只大肥鹅，字节投诉特朗普政府-数据库-新增文章成功]",
+        "uid" : "a02bda50e5ea0f3c",
+        "parentUid" : "6a37520317c1017a5be8bb17c59ade4a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598515177834,
+          "stop" : 1598515184788,
+          "duration" : 6954
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'数据库'", "'腾讯是一只大肥鹅，字节投诉特朗普政府'", "'新增文章成功'", "'大大大大新闻_{}'" ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "fc32f6389ee24080",
+        "parentUid" : "6a37520317c1017a5be8bb17c59ade4a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598515087026,
+          "stop" : 1598515087026,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6a37520317c1017a5be8bb17c59ade4a"
+    }, {
+      "name" : "4384-MainThread",
+      "children" : [ {
+        "name" : "test_end",
+        "uid" : "325de5457d957cc7",
+        "parentUid" : "59946b63e1b025f06eb36b8ea8c698b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432336483,
+          "stop" : 1598432342738,
+          "duration" : 6255
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_check",
+        "uid" : "4e0dcc9cbc2b5d53",
+        "parentUid" : "59946b63e1b025f06eb36b8ea8c698b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432355339,
+          "stop" : 1598432378152,
+          "duration" : 22813
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_publish_article[今日头条大大新闻_{}-腾讯是一只大肥鹅，字节投诉特朗普政府-数据库-新增文章成功]",
+        "uid" : "4499c4d893422616",
+        "parentUid" : "59946b63e1b025f06eb36b8ea8c698b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432322437,
+          "stop" : 1598432329125,
+          "duration" : 6688
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'数据库'", "'腾讯是一只大肥鹅，字节投诉特朗普政府'", "'新增文章成功'", "'今日头条大大新闻_{}'" ]
+      }, {
+        "name" : "test_mix_login[testid-testpwd123-首页]",
+        "uid" : "4a86434ca54fab3",
+        "parentUid" : "59946b63e1b025f06eb36b8ea8c698b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432351181,
+          "stop" : 1598432352269,
+          "duration" : 1088
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'testpwd123'", "'testid'", "'首页'" ]
+      }, {
+        "name" : "test_publish_article[大大大大新闻_{}-腾讯是一只大肥鹅，字节投诉特朗普政府-数据库-新增文章成功]",
+        "uid" : "b7e539a895d6465c",
+        "parentUid" : "59946b63e1b025f06eb36b8ea8c698b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432329784,
+          "stop" : 1598432336466,
+          "duration" : 6682
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'数据库'", "'腾讯是一只大肥鹅，字节投诉特朗普政府'", "'新增文章成功'", "'大大大大新闻_{}'" ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "9e33e1181443c58d",
+        "parentUid" : "59946b63e1b025f06eb36b8ea8c698b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432342754,
+          "stop" : 1598432342755,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[13012345678-246810-黑马头条官方账号]",
+        "uid" : "392031b74d2909ba",
+        "parentUid" : "59946b63e1b025f06eb36b8ea8c698b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432319773,
+          "stop" : 1598432321182,
+          "duration" : 1409
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'246810'", "'黑马头条官方账号'", "'13012345678'" ]
+      }, {
+        "name" : "test_end",
+        "uid" : "de477017e2401480",
+        "parentUid" : "59946b63e1b025f06eb36b8ea8c698b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432386513,
+          "stop" : 1598432392851,
+          "duration" : 6338
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_reject",
+        "uid" : "b4de434fced042aa",
+        "parentUid" : "59946b63e1b025f06eb36b8ea8c698b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432381272,
+          "stop" : 1598432386488,
+          "duration" : 5216
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "b1263e51019c554d",
+        "parentUid" : "59946b63e1b025f06eb36b8ea8c698b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432311266,
+          "stop" : 1598432311267,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "59946b63e1b025f06eb36b8ea8c698b4"
+    }, {
+      "name" : "25212-MainThread",
+      "children" : [ {
+        "name" : "test_login[13012345678-246810-黑马头条官方账号]",
+        "uid" : "a063f3baa1041080",
+        "parentUid" : "ff202934ef2d527437d25965d1795f27",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517415168,
+          "stop" : 1598517417290,
+          "duration" : 2122
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'246810'", "'黑马头条官方账号'", "'13012345678'" ]
+      }, {
+        "name" : "test_publish_article[大大大大新闻_{}-腾讯是一只大肥鹅，字节投诉特朗普政府-数据库-新增文章成功]",
+        "uid" : "70755f6115b80ebc",
+        "parentUid" : "ff202934ef2d527437d25965d1795f27",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517427167,
+          "stop" : 1598517434973,
+          "duration" : 7806
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'数据库'", "'腾讯是一只大肥鹅，字节投诉特朗普政府'", "'新增文章成功'", "'大大大大新闻_{}'" ]
+      }, {
+        "name" : "test_end",
+        "uid" : "7f9a8f39002f68c4",
+        "parentUid" : "ff202934ef2d527437d25965d1795f27",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517435050,
+          "stop" : 1598517441301,
+          "duration" : 6251
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "57150dc313c28003",
+        "parentUid" : "ff202934ef2d527437d25965d1795f27",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517407005,
+          "stop" : 1598517407005,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_publish_article[今日头条大大新闻_{}-腾讯是一只大肥鹅，字节投诉特朗普政府-数据库-新增文章成功]",
+        "uid" : "d8b030d3ba1a015d",
+        "parentUid" : "ff202934ef2d527437d25965d1795f27",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517418161,
+          "stop" : 1598517426605,
+          "duration" : 8444
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'数据库'", "'腾讯是一只大肥鹅，字节投诉特朗普政府'", "'新增文章成功'", "'今日头条大大新闻_{}'" ]
+      } ],
+      "uid" : "ff202934ef2d527437d25965d1795f27"
+    } ],
+    "uid" : "77ee72d4b93eeebb0eb5cf1cd7cc1c2f"
+  } ]
+}

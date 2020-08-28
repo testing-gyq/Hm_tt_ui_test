@@ -1,0 +1,14 @@
+{
+  "publish_success": {
+    "title": "今日头条大大新闻_{}",
+    "content": "腾讯是一只大肥鹅，字节投诉特朗普政府",
+    "channel_name": "数据库",
+    "text": "新增文章成功"
+  },
+  "publish_success1": {
+    "title": "大大大大新闻_{}",
+    "content": "腾讯是一只大肥鹅，字节投诉特朗普政府",
+    "channel_name": "数据库",
+    "text": "新增文章成功"
+  }
+}
